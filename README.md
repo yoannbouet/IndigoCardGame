@@ -1,7 +1,7 @@
-# Indigo Card Game Project
+# IndigoCardGame Project
 
 A card game against a competent computer.
 
-From the Kotlin Basics course on Hyperskill.org.
+From the Kotlin Basics track on Hyperskill.org.
 
 https://hyperskill.org/tracks/18
